@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b415ae9e-e5a5-424c-aaa1-6665402a3382" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/demo/dao/Test1.class" afterPath="$PROJECT_DIR$/build/classes/com/demo/dao/Test1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/demo/entity/UserInfo.class" afterPath="$PROJECT_DIR$/build/classes/com/demo/entity/UserInfo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/applicationContext-hibernate.xml" afterPath="$PROJECT_DIR$/build/classes/applicationContext-hibernate.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/spring-shiro-web.xml" afterPath="$PROJECT_DIR$/build/classes/spring-shiro-web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/applicationContext-hibernate.xml" afterPath="$PROJECT_DIR$/src/applicationContext-hibernate.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/demo/dao/Test1.java" afterPath="$PROJECT_DIR$/src/com/demo/dao/Test1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/WebContent/WEB-INF/lib/shiro-web-1.3.2.jar" afterPath="$PROJECT_DIR$/src/shiro-web-1.3.2.jar" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -532,12 +523,20 @@
       <option name="presentableId" value="Default" />
       <updated>1494244793900</updated>
       <workItem from="1494244801512" duration="1917000" />
-      <workItem from="1494250934599" duration="7000" />
+      <workItem from="1494250934599" duration="53000" />
     </task>
+    <task id="LOCAL-00001" summary="aaa">
+      <created>1494250961917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1494250961917</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1924000" />
+    <option name="totallyTimeSpent" value="1970000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2906" height="1566" extended-state="6" />
@@ -580,6 +579,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
