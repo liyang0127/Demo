@@ -32,6 +32,8 @@ public class Test1 {
 
 			currentSession.save(user);
 			txTransaction.commit();
+			
+			System.out.println("addUser");
 		} catch (HibernateException e) {
 			e.printStackTrace();
 		}

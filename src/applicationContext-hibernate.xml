@@ -3,7 +3,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tx="http://www.springframework.org/schema/tx"
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
         http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.1.xsd
-        http://www.springframework.org/schema/context  http://www.springframework.org/schema/context/spring-context-4.0.xsd">
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd">
 
 	<!-- 配置数据源 -->
 	<bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource"
@@ -42,10 +42,10 @@
 		<property name="hibernateProperties">
 			<props>
 				<prop key="hibernate.dialect">org.hibernate.dialect.MySQLDialect</prop>
-				<prop key="hibernate.hbm2ddl.auto">update</prop>
+				<prop key="hibernate.hbm2ddl.auto">create</prop>
 				<prop key="hibernate.show_sql">true</prop>
 				<prop key="hibernate.format_sql">true</prop>
-				 <prop key="current_session_context_class">thread</prop>   
+				<prop key="current_session_context_class">thread</prop>
 			</props>
 		</property>
 
@@ -79,6 +79,6 @@
 		</tx:attributes>
 	</tx:advice>
 	<!-- 声明式事务配置结束 -->
-	
-	  <context:component-scan base-package="maven.spring.shiro.web.controller"></context:component-scan>
+
+	<context:component-scan base-package="maven.spring.shiro.web.controller"></context:component-scan>
 </beans>
