@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b415ae9e-e5a5-424c-aaa1-6665402a3382" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/applicationContext-hibernate.xml" afterPath="$PROJECT_DIR$/build/classes/applicationContext-hibernate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/applicationContext-hibernate.xml" afterPath="$PROJECT_DIR$/src/applicationContext-hibernate.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -523,7 +525,7 @@
       <option name="presentableId" value="Default" />
       <updated>1494244793900</updated>
       <workItem from="1494244801512" duration="1917000" />
-      <workItem from="1494250934599" duration="53000" />
+      <workItem from="1494250934599" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="aaa">
       <created>1494250961917</created>
@@ -532,11 +534,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494250961917</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="aaa">
+      <created>1494250993041</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1494250993041</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1970000" />
+    <option name="totallyTimeSpent" value="2512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2906" height="1566" extended-state="6" />
