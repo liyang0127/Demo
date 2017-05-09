@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="buji-pac4j-servlet-1.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/buji-pac4j-servlet-1.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
